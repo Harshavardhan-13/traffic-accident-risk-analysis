@@ -1,0 +1,26 @@
+# Large source downloads and generated row-level data stay local.
+*.csv
+*.xlsx
+*.xls
+*.parquet
+*.feather
+*.pkl
+*.joblib
+
+# Local coursework backups and notebook previews.
+_original_coursework/
+/Answer/
+.notebook_previews/
+.ipynb_checkpoints/
+
+# Python environments and generated runtime files.
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.DS_Store
+.Rhistory
+.env
+
+# Reproducible aggregate reports may be committed.
+!reports/*.csv

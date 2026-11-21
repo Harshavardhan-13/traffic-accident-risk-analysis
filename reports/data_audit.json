@@ -1,0 +1,19 @@
+{
+  "raw_rows": 1951063,
+  "exact_duplicates_removed": 2276,
+  "invalid_target_rows": 0,
+  "missing_stop_id_rows": 0,
+  "invalid_date_rows": 0,
+  "invalid_vehicle_year_rows": 2608,
+  "prepared_records": 1948787,
+  "distinct_stop_ids": 1105586,
+  "accident_records": 53395,
+  "accident_record_rate": 0.02739909492417591,
+  "date_min": "2012-01-01",
+  "date_max": "2024-09-16",
+  "input_file": "Traffic_Violations.csv",
+  "input_bytes": 829632172,
+  "source_url": "https://catalog.data.gov/dataset/traffic-violations",
+  "grain": "violation record; multiple records may share a stop ID",
+  "input_sha256": "9827fc54d7862c074bb41345c6d56070aecdb204d717dc6ce9c2c0395588c831"
+}
